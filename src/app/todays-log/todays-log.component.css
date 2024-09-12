@@ -1,0 +1,52 @@
+/* #chartdiv {
+    width: 100%;
+    height: 500px;
+  } */
+
+  .todays-log-container {
+    position: relative; 
+    /* width: 100%; 
+    height: 400px; */
+    display: flex;
+    justify-content: space-between;
+    gap: 10px; 
+  }
+  
+  .chart-container {
+    position: absolute;
+    opacity: 1;
+    border: 2px solid #ffffff; 
+  }
+  
+  .chart-container-1 {
+    top: 80px;
+    /* top: 164px; */
+    left: 131px;
+    width: 393px;
+    height: 103px;
+  }
+  
+  .chart-container-2 {
+    top: 80px;
+    /* top: 164px; */
+    left: 584px;
+    width: 393px;
+    height: 103px;
+  }
+  
+  .chart-container-3 {
+    top: 80px;
+    /* top: 164px; */
+    left: 1037px;
+    width: 393px;
+    height: 102px;
+  }
+  
+  .chart-container-4 {
+    top: 80px;
+    /* top: 164px; */
+    left: 1490px;
+    width: 393px;
+    height: 102px;
+  }
+  
